@@ -20,7 +20,7 @@
 		  `createdon` datetime DEFAULT NULL,
 		  `deleted` int(1) NOT NULL DEFAULT 0,
 		  PRIMARY KEY (`id`)
-		) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4]]></sql>
 		</table>
 	</tables>
 	<customlinks>
